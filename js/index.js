@@ -131,10 +131,10 @@
 		txtCanvas.width = WIDTH;
 		txtCanvas.height = HEIGHT;
 
-		txtCtx.font = 'bold 17vw Sans-serif';
+		txtCtx.font = 'bold 13vw Sans-serif';
 		txtCtx.textAlign = 'center';
 		txtCtx.baseline = 'middle';
-		txtCtx.fillText('घाँची', WIDTH / 2, HEIGHT / 2);
+		txtCtx.fillText('mox@rathore.com', WIDTH / 2, HEIGHT / 2);
 
 		ctx.font = 'bold 12px Monospace';
 		ctx.textAlign = 'center';
